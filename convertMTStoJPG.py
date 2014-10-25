@@ -1,5 +1,6 @@
 import numpy as np
 import cv2
+#This is a course stuff
 def convertMTStoJPG(source,target):
     cap = cv2.VideoCapture(source)
     i=0
