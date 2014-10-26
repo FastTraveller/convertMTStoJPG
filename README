@@ -1,1 +1,1 @@
-This is a small tool to convert the video with 'MTS' extension to picture with 'JPG' extension  automatically.We require that the deepth of the repo is equall to two.An example would be like this:python convertMTStoJPG.py source. Good luck!~~ 
+This is a small tool to convert the video with 'MTS' extension to picture with 'JPG' extension  automatically.We require that the deepth of the repo is equall to two1.An example would be like this:python convertMTStoJPG.py source. Good luck!~~ 
